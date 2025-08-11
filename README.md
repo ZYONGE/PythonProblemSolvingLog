@@ -1,5 +1,5 @@
 <div>   
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
 </div>
 
 # PythonProblemSolvingLog
